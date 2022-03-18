@@ -6,7 +6,7 @@
 
 I have a passion for coding and developing functional applications for everyday use.
 
-Short list of my skillset:
+## Short list of my skillset:
 - JavaScript, HTML, CSS
 - Express
 - Node
