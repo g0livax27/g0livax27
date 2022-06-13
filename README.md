@@ -1,7 +1,7 @@
 # Hi, there! :wave:
 
-- :woman_technologist: Hi, I’m @g0livax27
-- 🌱 Currently a full-stack software engineering student @ General Assembly
+- :woman_technologist: Hi, I’m Gerimae!
+- 🌱 Full-stack web developer
 - 💞️ I’m looking to collaborate on anything to help enhance my portfolio
 
 I have a passion for coding and developing functional applications for everyday use.
