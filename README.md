@@ -6,12 +6,22 @@
 
 I have a passion for coding and developing functional applications for everyday use.
 
-## Short list of my skillset:
-- JavaScript, HTML, CSS
-- Express
-- Node
+## My skillset:
+- APIs
+- Bootstrap
+- CSS
+- ES6
+- Express.js
+- HTML5
+- JavaScript
+- JSX
 - MongoDB
-- REACT
+- Mongoose
+- MVC
+- Node.js
+- Object Oriented Programming
+- React.js
+- Wireframes
 
 <!---
 g0livax27/g0livax27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
